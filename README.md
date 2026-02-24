@@ -13,7 +13,7 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #0b0c10;
+    background-color: #0a0a0f;
     color: #e6e6e6;
     line-height: 1.7;
 }
@@ -25,7 +25,7 @@ body {
 }
 
 a {
-    color: #66c0ff;
+    color: #F5C542;
     text-decoration: none;
 }
 
@@ -66,7 +66,7 @@ section {
 }
 
 h2 {
-    border-left: 4px solid #66c0ff;
+    border-left: 4px solid #F5C542;
     padding-left: 10px;
     margin-bottom: 20px;
 }
